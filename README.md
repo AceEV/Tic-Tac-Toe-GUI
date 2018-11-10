@@ -12,3 +12,6 @@ It uses the same helper.py file from the previous project, slightly modified the
 To run, make sure you have Tkinter installed and run 'main.py' using Python3
 
 Have fun playing!
+
+
+PS : Currently, I haven't worked on any interesting look and feel of the GUI. I was planning on adding the Cross and O Images but left that for a lter date. Let me know if you are interested in them. This is just a very basics working model.
